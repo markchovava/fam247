@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1, 
+        "img": "palliative.jpg", 
+        "title": "Palliative Care", 
+        "link": "palliative-care"
+    },
+    {
+        "id":2, 
+        "img": "domiciliary_care.jpg", 
+        "title": "Domiciliary Care", 
+        "link": "/domiciliary-care"
+    },
+    {
+        "id":3, 
+        "img": "recruit.jpg", 
+        "title": "Live-In Care", 
+        "link": "live-in-care"
+    },
+    {
+        "id":4, 
+        "img": "gerontology.jpg", 
+        "title": "Supporting Living", 
+        "link": "supported-living"
+    }
+]

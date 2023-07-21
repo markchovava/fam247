@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .bg__gradientGreen{
+    @apply bg-cover bg-gradient-to-br from-yellow-50 to-green-300;
+  }
+  .bg__gradientPink{
+    @apply bg-cover bg-gradient-to-br from-pink-50 to-pink-400;
+  }
+  .bg__gradientPurple{
+    @apply bg-cover bg-gradient-to-br from-purple-50 to-purple-400;
+  }
+}
+.swiper-button-next, 
+.swiper-button-prev {
+      color: white !important;
+    } 
